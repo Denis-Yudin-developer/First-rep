@@ -1,0 +1,10 @@
+/* телефоны вертикально */
+@media (max-width: 480px) {
+    .header-flex__div{
+        flex-direction: column;
+    }
+    .header__main-nav{
+        flex-direction: column;
+        background-color: #abd3f7;
+    }
+}
